@@ -1,0 +1,132 @@
+{
+  "schema": "AGRP-Policy/1.0",
+  "policy_version": 3,
+  "package": "com.example.saeplab.delete",
+  "updated_at": "1792332322807",
+  "default_policy": {
+    "app": {
+      "global_disable": true,
+      "screenshot_disable": false,
+      "input_disable": true
+    }
+  },
+  "scope": {
+    "app": {
+      "global_disable": false,
+      "screenshot_disable": false,
+      "input_disable": false
+    },
+    "activities": {
+      "com.example.saeplab.NotesActivity": {
+        "name": "普通记事",
+        "page_scope": {
+          "global_disable": false,
+          "screenshot_disable": false,
+          "input_disable": false
+        }
+      },
+      "com.example.saeplab.RestrictedInputActivity": {
+        "name": "输入限制",
+        "page_scope": {
+          "global_disable": false,
+          "screenshot_disable": false,
+          "input_disable": true
+        }
+      },
+      "com.example.saeplab.MainActivity": {
+        "name": "主页",
+        "page_scope": {
+          "global_disable": false,
+          "screenshot_disable": false,
+          "input_disable": false
+        }
+      },
+      "com.example.saeplab.CapabilitiesActivity": {
+        "name": "功能能力",
+        "page_scope": {
+          "global_disable": false,
+          "screenshot_disable": false,
+          "input_disable": false
+        }
+      },
+      "com.example.saeplab.CapabilityTaskActivity": {
+        "name": "功能测试",
+        "page_scope": {
+          "global_disable": false,
+          "screenshot_disable": false,
+          "input_disable": false
+        }
+      },
+      "com.example.saeplab.LogsActivity": {
+        "name": "日志导出",
+        "page_scope": {
+          "global_disable": false,
+          "screenshot_disable": false,
+          "input_disable": false
+        }
+      },
+      "com.example.saeplab.DiagnosisActivity": {
+        "name": "样例观察",
+        "page_scope": {
+          "global_disable": false,
+          "screenshot_disable": false,
+          "input_disable": false
+        }
+      },
+      "com.example.saeplab.SecurityActivity": {
+        "name": "样例观察",
+        "page_scope": {
+          "global_disable": false,
+          "screenshot_disable": false,
+          "input_disable": false
+        }
+      },
+      "com.example.saeplab.ReadOpenActivity": {
+        "name": "读取卡片",
+        "page_scope": {
+          "global_disable": false,
+          "screenshot_disable": false,
+          "input_disable": false
+        }
+      },
+      "com.example.saeplab.ReadSaepActivity": {
+        "name": "读取卡片",
+        "page_scope": {
+          "global_disable": false,
+          "screenshot_disable": true,
+          "input_disable": false
+        }
+      },
+      "com.example.saeplab.ReadSecureActivity": {
+        "name": "读取卡片",
+        "page_scope": {
+          "global_disable": false,
+          "screenshot_disable": false,
+          "input_disable": false
+        }
+      },
+      "com.example.saeplab.ReadBothActivity": {
+        "name": "读取卡片",
+        "page_scope": {
+          "global_disable": false,
+          "screenshot_disable": true,
+          "input_disable": false
+        }
+      },
+      "com.example.saeplab.IntentRecordActivity": {
+        "name": "样例观察",
+        "page_scope": {
+          "global_disable": false,
+          "screenshot_disable": false,
+          "input_disable": false
+        }
+      }
+    },
+    "agent_intents": {
+      "modify_content": false,
+      "post_content": false,
+      "delete_content": false,
+      "account_incentive": false
+    }
+  }
+}

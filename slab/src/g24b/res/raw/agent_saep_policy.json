@@ -1,0 +1,36 @@
+{
+  "schema": "AGRP-Policy/1.0",
+  "policy_version": 1,
+  "package": "com.saep.lab.g24b",
+  "updated_at": "1792496717912",
+  "default_policy": {
+    "app": {
+      "global_disable": false,
+      "screenshot_disable": false,
+      "input_disable": false
+    }
+  },
+  "scope": {
+    "app": {
+      "global_disable": false,
+      "screenshot_disable": false,
+      "input_disable": false
+    },
+    "activities": {
+      "com.saep.lab.TargetActivity": {
+        "name": "目标页",
+        "page_scope": {
+          "global_disable": false,
+          "screenshot_disable": true,
+          "input_disable": false
+        }
+      }
+    },
+    "agent_intents": {
+      "modify_content": false,
+      "post_content": false,
+      "delete_content": false,
+      "account_incentive": false
+    }
+  }
+}

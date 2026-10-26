@@ -1,0 +1,16 @@
+# Preserve exact bytes for archived binaries and extracted experiment policies.
+*.apk binary
+*.jar binary
+apks/policies/** -text
+slab/src/**/res/raw/*.json -text
+app/src/**/res/raw/*.json -text
+# The intentionally truncated R2-12 fixture ends inside JSON indentation.
+apks/policies/slab/g2c.json -whitespace
+slab/src/g2c/res/raw/agent_saep_policy.json -whitespace
+# Keep executable scripts and Gradle inputs portable across checkouts.
+*.sh text eol=lf
+*.py text eol=lf
+*.kt text eol=lf
+*.kts text eol=lf
+gradlew text eol=lf
+gradlew.bat text eol=crlf

@@ -1,0 +1,28 @@
+.gradle/
+.kotlin/
+.tooling/
+.codex-build/
+**/build/
+local.properties
+.idea/
+*.iml
+__pycache__/
+*.pyc
+.DS_Store
+.signing/
+*.jks
+*.keystore
+*.p12
+*.pem
+.env
+.env.*
+!.env.example
+# Original device evidence stays local; reviewed handoff summaries are in docs/results/.
+/runs/
+/artifacts/
+/output/
+/tmp/
+/dist/
+# Only frozen, indexed experiment APKs under apks/ are published.
+*.apk
+!/apks/**/*.apk

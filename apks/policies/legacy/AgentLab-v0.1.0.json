@@ -1,0 +1,22 @@
+{
+  "schema": "AGRP-Policy/1.0",
+  "policy_version": 1,
+  "package": "com.example.saeplab",
+  "updated_at": "1792108800000",
+  "default_policy": {
+    "app": { "global_disable": true, "screenshot_disable": false, "input_disable": true }
+  },
+  "scope": {
+    "app": { "global_disable": false },
+    "activities": {
+      "com.example.saeplab.NotesActivity": {
+        "name": "普通记事",
+        "page_scope": { "global_disable": false, "screenshot_disable": false, "input_disable": false }
+      },
+      "com.example.saeplab.RestrictedInputActivity": {
+        "name": "输入限制",
+        "page_scope": { "global_disable": false, "screenshot_disable": false, "input_disable": true }
+      }
+    }
+  }
+}

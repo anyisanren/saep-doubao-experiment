@@ -1,0 +1,407 @@
+[
+  {
+    "source": "runs/MATRIX.md",
+    "source_sha256": "f14877daeb8904ce45083381a15fb4d2b29b70ac639ab6c616ccc0e214d13955",
+    "published": "docs/results/MATRIX.md"
+  },
+  {
+    "source": "runs/TIMELINE.md",
+    "source_sha256": "0991dc17cba2e14eeeeb319f4e26850430baf0ff1053a29d94b83fe6e5187d83",
+    "published": "docs/results/TIMELINE.md"
+  },
+  {
+    "source": "runs/VERSIONS.md",
+    "source_sha256": "b16ab000519b63af1f66894fa0a09a231a552f7f7cc21d6f328bfb64fd09051f",
+    "published": "docs/results/VERSIONS.md"
+  },
+  {
+    "source": "runs/supplement/FIELDS.md",
+    "source_sha256": "2455b182084eab316f8d9b62bed5fbb53bcc2553900e0d6846c8ac6720413b1f",
+    "published": "docs/results/FIELDS.md"
+  },
+  {
+    "source": "runs/supplement/LATENCY.md",
+    "source_sha256": "18aba01309f43c503c9300b19e070031b499c88ab55bbc379d4df1879c230d78",
+    "published": "docs/results/LATENCY.md"
+  },
+  {
+    "source": "runs/R1A/REPORT.md",
+    "source_sha256": "219672e6998e5ea0a2ce8594472bf30646c581837c7ad262050b82f6151b3678",
+    "published": "docs/results/rounds/R1A/REPORT.md"
+  },
+  {
+    "source": "runs/R1A-4/REPORT.md",
+    "source_sha256": "9af3feb47db167741d44eefaa4e57bf0de320aeaf5dcafad458a310af50f2675",
+    "published": "docs/results/rounds/R1A-4/REPORT.md"
+  },
+  {
+    "source": "runs/R1B/REPORT.md",
+    "source_sha256": "909c0501d52fb1e276b592ba11b2c1e46a624d3d786ceebc4fa16d6ddd55b18e",
+    "published": "docs/results/rounds/R1B/REPORT.md"
+  },
+  {
+    "source": "runs/R2-1/REPORT.md",
+    "source_sha256": "e62d80aebfdc5466a9c6e5c4bd20dd2e8c82ee97101a4adca6d516c98e8206d9",
+    "published": "docs/results/rounds/R2-1/REPORT.md"
+  },
+  {
+    "source": "runs/R2-10/REPORT.md",
+    "source_sha256": "adaa557329dadd233156a43a42ff6c58aa4fdff26b1624da9c9cfb40026ab4c6",
+    "published": "docs/results/rounds/R2-10/REPORT.md"
+  },
+  {
+    "source": "runs/R2-10r2/REPORT.md",
+    "source_sha256": "b62b896ce5d1f970579f76f23ce35fd7ff388e70461499081a35379c8a6b3e24",
+    "published": "docs/results/rounds/R2-10r2/REPORT.md"
+  },
+  {
+    "source": "runs/R2-11/REPORT.md",
+    "source_sha256": "cdae362f001a47160e89100befb807018d75e0309661dc9e822a91cfbf09ba2d",
+    "published": "docs/results/rounds/R2-11/REPORT.md"
+  },
+  {
+    "source": "runs/R2-11c/REPORT.md",
+    "source_sha256": "0ed11ee64afbad6ebad654fe15af2308c9cb4f25e2f5e84316511eba4cb0dde0",
+    "published": "docs/results/rounds/R2-11c/REPORT.md"
+  },
+  {
+    "source": "runs/R2-12/REPORT.md",
+    "source_sha256": "8811d507a830f7d6e1aaec4bd568ed545a2932cf6d72e3a158809ea86214f609",
+    "published": "docs/results/rounds/R2-12/REPORT.md"
+  },
+  {
+    "source": "runs/R2-13/REPORT.md",
+    "source_sha256": "b0338748e6b9192adf8a7a1f87f0cdb7b099a1b5cbde2df1128e19092c20b438",
+    "published": "docs/results/rounds/R2-13/REPORT.md"
+  },
+  {
+    "source": "runs/R2-14/REPORT.md",
+    "source_sha256": "b26fab1d29e6da7add180e2f21f436c38802d2af3dc71e9fc3d6daafaa8f7c55",
+    "published": "docs/results/rounds/R2-14/REPORT.md"
+  },
+  {
+    "source": "runs/R2-15/REPORT.md",
+    "source_sha256": "a6cadb4c7ce29f827976d1fe2412d6add91453e8e30c4fcd73890354c08af727",
+    "published": "docs/results/rounds/R2-15/REPORT.md"
+  },
+  {
+    "source": "runs/R2-2/REPORT.md",
+    "source_sha256": "438442edae684c6a7bdfff42df65f6adb31d734510649d17eccfa93428962292",
+    "published": "docs/results/rounds/R2-2/REPORT.md"
+  },
+  {
+    "source": "runs/R2-3/REPORT.md",
+    "source_sha256": "af5d4906231e2ba407215cc80d91733802430b92370483f489b7754c9a48549a",
+    "published": "docs/results/rounds/R2-3/REPORT.md"
+  },
+  {
+    "source": "runs/R2-4a/REPORT.md",
+    "source_sha256": "3a33371cbabc8e7786d8f01a501ef5b48031c901a4908dff52f48cf47836b536",
+    "published": "docs/results/rounds/R2-4a/REPORT.md"
+  },
+  {
+    "source": "runs/R2-4b/REPORT.md",
+    "source_sha256": "3dfd2db82a7f9166cc1438d02c24b74437801085896c6bad21beb73277452a1e",
+    "published": "docs/results/rounds/R2-4b/REPORT.md"
+  },
+  {
+    "source": "runs/R2-4c/REPORT.md",
+    "source_sha256": "471f3e0546c6cfd27a05160ac94035eb33c2d86586b2d03cf2f7595acc1a8767",
+    "published": "docs/results/rounds/R2-4c/REPORT.md"
+  },
+  {
+    "source": "runs/R2-5/REPORT.md",
+    "source_sha256": "b54a8465f1d4864d8ba5faa4c8d2b260327e6493777be8386eea28ba450d4187",
+    "published": "docs/results/rounds/R2-5/REPORT.md"
+  },
+  {
+    "source": "runs/R2-6/REPORT.md",
+    "source_sha256": "87017b2c0368b5a30885a4df8b55320ffde8b4bea7a17f15c589189b82eb4da1",
+    "published": "docs/results/rounds/R2-6/REPORT.md"
+  },
+  {
+    "source": "runs/R2-7/REPORT.md",
+    "source_sha256": "fe5e41b0ccf128604eb0ea32c809d734dbda2b3e9223cddaf64f775db1ed7fab",
+    "published": "docs/results/rounds/R2-7/REPORT.md"
+  },
+  {
+    "source": "runs/R2-8/REPORT.md",
+    "source_sha256": "4edc7ca59c8dcf8b0ee66a630b6dfa17eab89c0f0e14c72f72f1715c25d99232",
+    "published": "docs/results/rounds/R2-8/REPORT.md"
+  },
+  {
+    "source": "runs/R2-9/REPORT.md",
+    "source_sha256": "fa373173c1374b9bfae70ffc6df5d466685c662c50542b3b29603169275a832f",
+    "published": "docs/results/rounds/R2-9/REPORT.md"
+  },
+  {
+    "source": "runs/R3-1/REPORT.md",
+    "source_sha256": "8746ca88bed2f4f8c537ae1a10f911eeb1f00ff6843117aae2d5d4b02866dc73",
+    "published": "docs/results/rounds/R3-1/REPORT.md"
+  },
+  {
+    "source": "runs/R3-2/REPORT.md",
+    "source_sha256": "d028d678827bc484bf794a8736b318162eb3648a36cfd6b954346e57c90764fb",
+    "published": "docs/results/rounds/R3-2/REPORT.md"
+  },
+  {
+    "source": "runs/R3-3/REPORT.md",
+    "source_sha256": "2853d835b2ca60d383c43156ef6e54dee9fbf4e0580ec631c307fb6668b6e566",
+    "published": "docs/results/rounds/R3-3/REPORT.md"
+  },
+  {
+    "source": "runs/R3-4/REPORT.md",
+    "source_sha256": "455212782ef6ddb0992aae628527c925f29ccd2045d58e9b2f16ea16d94863e3",
+    "published": "docs/results/rounds/R3-4/REPORT.md"
+  },
+  {
+    "source": "runs/R3-4r2/REPORT.md",
+    "source_sha256": "1b7c261cfee5231454d312df904986e4e425edb75714be46665c097056e1d457",
+    "published": "docs/results/rounds/R3-4r2/REPORT.md"
+  },
+  {
+    "source": "runs/R3-5/REPORT.md",
+    "source_sha256": "9c9f7aff9daf5d48af8dd6b014d8d959b42989ebead173ea7fa23edcd9c426ea",
+    "published": "docs/results/rounds/R3-5/REPORT.md"
+  },
+  {
+    "source": "runs/R3-6/REPORT.md",
+    "source_sha256": "d248dfb93a423f2a2db5f9f47ad6b63199cf767900aed90fe50cfb2916eb07f0",
+    "published": "docs/results/rounds/R3-6/REPORT.md"
+  },
+  {
+    "source": "runs/R3-7/REPORT.md",
+    "source_sha256": "5bc9c6a520c6d7c8344f93a148b4bdabd232d318b8c691aa6abeb0423ee688c8",
+    "published": "docs/results/rounds/R3-7/REPORT.md"
+  },
+  {
+    "source": "runs/R3-8/REPORT.md",
+    "source_sha256": "2c50a2635f36ed2adba9d792512fba31ab4d28ae0e12022dd32d67e17e1c3458",
+    "published": "docs/results/rounds/R3-8/REPORT.md"
+  },
+  {
+    "source": "runs/R4-1/REPORT.md",
+    "source_sha256": "671f21300a9de8b348d3b66792dda0b7afe348c5ec4b35e80ad616e8c0b69942",
+    "published": "docs/results/rounds/R4-1/REPORT.md"
+  },
+  {
+    "source": "runs/R4-2/REPORT.md",
+    "source_sha256": "2e743196c24511996f268dd89a60f8bd681909f15e6318d7335b6af196981bf7",
+    "published": "docs/results/rounds/R4-2/REPORT.md"
+  },
+  {
+    "source": "runs/R4-3/REPORT.md",
+    "source_sha256": "8900fb45a4478eb97a2351552924a10962511452d9b767e4ec44c278fd92d9cd",
+    "published": "docs/results/rounds/R4-3/REPORT.md"
+  },
+  {
+    "source": "runs/R4-4/REPORT.md",
+    "source_sha256": "f99a1d60da9a6b478f871db1b0084a001714dd81ab53a0eee45cb5e26af2d422",
+    "published": "docs/results/rounds/R4-4/REPORT.md"
+  },
+  {
+    "source": "runs/R4-5/REPORT.md",
+    "source_sha256": "248842ca0876801612ee6efeaec46b938e947f47bf8268d0f19f221fca92cdb8",
+    "published": "docs/results/rounds/R4-5/REPORT.md"
+  },
+  {
+    "source": "runs/R4-6/REPORT.md",
+    "source_sha256": "f23f6ec7698eb65fb5a859d72150ac73c190a5576c0a35a290e2b4bc78d52d9a",
+    "published": "docs/results/rounds/R4-6/REPORT.md"
+  },
+  {
+    "source": "runs/R4-7/REPORT.md",
+    "source_sha256": "18860469d72e50ed90af5107398c694bb910fdd6a398cacf23bdd21899ad06b5",
+    "published": "docs/results/rounds/R4-7/REPORT.md"
+  },
+  {
+    "source": "runs/R4-8/REPORT.md",
+    "source_sha256": "bc9846beb42474d3c1ea5e92314bd86e949423fa3912652d44bf52249c82bec5",
+    "published": "docs/results/rounds/R4-8/REPORT.md"
+  },
+  {
+    "source": "runs/R4-9/REPORT.md",
+    "source_sha256": "9b0a756f157e5834e1f5517a3849836bde78ab266450895bfb3802e42ac1135f",
+    "published": "docs/results/rounds/R4-9/REPORT.md"
+  },
+  {
+    "source": "runs/R1A/OPERATION_CARD.md",
+    "source_sha256": "5c3d391d6722cac5e30aa7c9f394cca33d7c1370e51e16a4f99aaf0e52d90038",
+    "published": "docs/results/rounds/R1A/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R1B/OPERATION_CARD.md",
+    "source_sha256": "495f9449774a8fb941b1f7e7512340a914dcbcbaff6db4db4f1abdfa168ca95a",
+    "published": "docs/results/rounds/R1B/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R2-1/OPERATION_CARD.md",
+    "source_sha256": "f34c78d0b81c93f6109faaf554cee676153da4875d5bdca8ca71cf071f485f66",
+    "published": "docs/results/rounds/R2-1/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R2-10/OPERATION_CARD.md",
+    "source_sha256": "3715ba36ff74356821fd9e3db9949cc92859ad6de52040350cc09eaafdac5962",
+    "published": "docs/results/rounds/R2-10/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R2-10r2/OPERATION_CARD.md",
+    "source_sha256": "9c4a90a5f0b53aa8b5df3bc1975db9a80ee49a46c560db08d2e13347dcd27287",
+    "published": "docs/results/rounds/R2-10r2/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R2-11/OPERATION_CARD.md",
+    "source_sha256": "98691b307ae35fdbfcc23fecad5be4fbb2cc4945a55b1a4e35e79d0507103cec",
+    "published": "docs/results/rounds/R2-11/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R2-11c/OPERATION_CARD.md",
+    "source_sha256": "b1df7070b6bcda3634cfc99b5ccb17f18fd115d52607ceb3067f45d293af9557",
+    "published": "docs/results/rounds/R2-11c/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R2-12/OPERATION_CARD.md",
+    "source_sha256": "028b8d1118e5b8f07418e713768b78247fa5f21ff43b0361247bbfe7fa285158",
+    "published": "docs/results/rounds/R2-12/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R2-13/OPERATION_CARD.md",
+    "source_sha256": "ea3547dfacc4f7991607b031e54244e88a183638b8affb2eada79de2567e1f9f",
+    "published": "docs/results/rounds/R2-13/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R2-14/OPERATION_CARD.md",
+    "source_sha256": "588228c40a32adbda7e211cbc10244bbddb2b8bd8b67d8e70c030c90d3f5c01e",
+    "published": "docs/results/rounds/R2-14/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R2-15/OPERATION_CARD.md",
+    "source_sha256": "96406f177c42cab3cbbb8de84590837e1ee817ad25ea4c663fa3ac00bda807bb",
+    "published": "docs/results/rounds/R2-15/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R2-2/OPERATION_CARD.md",
+    "source_sha256": "31d3c52493af0fe7d1fd1e2783a2fed35c0dd6eadb4f82c18c0e242a47f4c8e2",
+    "published": "docs/results/rounds/R2-2/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R2-3/OPERATION_CARD.md",
+    "source_sha256": "6607f0c4b6e0e81104800a84f7df6afc05a18f1b9a0efd2a0c8577685442c585",
+    "published": "docs/results/rounds/R2-3/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R2-4a/OPERATION_CARD.md",
+    "source_sha256": "373a7f9de9a009de157a53e0c0ffd1223aff474983cb18ea23efe256d45e8a7d",
+    "published": "docs/results/rounds/R2-4a/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R2-4b/OPERATION_CARD.md",
+    "source_sha256": "1d97063e6c00a34ebf53deb3b8e94120c4c3c40f4b22c2de82e4011c703a6ef5",
+    "published": "docs/results/rounds/R2-4b/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R2-4c/OPERATION_CARD.md",
+    "source_sha256": "938d4f13d6aee21534cf6e8eba06909768a342128baaa48b215b7a4119da1573",
+    "published": "docs/results/rounds/R2-4c/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R2-5/OPERATION_CARD.md",
+    "source_sha256": "9ee9bde612ac2dbbf635a5df259e68e40d944e837f3f0ba6fbcc27839f4afcc7",
+    "published": "docs/results/rounds/R2-5/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R2-6/OPERATION_CARD.md",
+    "source_sha256": "7e34e5054b5f69a385d0ce4eb446333c969b579970b0cdd7dcd14a6946564274",
+    "published": "docs/results/rounds/R2-6/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R2-7/OPERATION_CARD.md",
+    "source_sha256": "6d9cd4425d60336d6a914f701e0b4acd22decb19483a29151809f76c081ca86e",
+    "published": "docs/results/rounds/R2-7/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R2-8/OPERATION_CARD.md",
+    "source_sha256": "8b5971dc79f55bb4fc47f6e8c2d175811258fc22b91cf83e1929c5c9ae5a31d2",
+    "published": "docs/results/rounds/R2-8/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R2-9/OPERATION_CARD.md",
+    "source_sha256": "c03f0e6f1900c7e91418bd1664a17666919fe366b04dd14573f0508587dc0893",
+    "published": "docs/results/rounds/R2-9/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R3-1/OPERATION_CARD.md",
+    "source_sha256": "36a190f70e6e0098c280d0d9dde11b7e3ad825a343dcd4bc11f2aad5e492757c",
+    "published": "docs/results/rounds/R3-1/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R3-2/OPERATION_CARD.md",
+    "source_sha256": "354ac24849db8dc59bf19ee5e2117aaa4d9b1f12c2b2f6de30e05d446f646a7c",
+    "published": "docs/results/rounds/R3-2/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R3-4/OPERATION_CARD.md",
+    "source_sha256": "ad348914cc1b26a9fca83086692c4dbbd7c8304f4ea9b9fc0d5d7b05eb6c6e63",
+    "published": "docs/results/rounds/R3-4/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R3-4r2/OPERATION_CARD.md",
+    "source_sha256": "57bfbe8060436a213063f88d20e49922154620e5dad3a4171347b0ad6d48b63a",
+    "published": "docs/results/rounds/R3-4r2/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R3-5/OPERATION_CARD.md",
+    "source_sha256": "7638ee51ba1b95d1db97d9f40145524266c872346b08ad1937ceae81f5454306",
+    "published": "docs/results/rounds/R3-5/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R3-6/OPERATION_CARD.md",
+    "source_sha256": "066c14507ba2acf92002edb390b9ef5e2bfeb782a3388e9fdd2d307b78aff696",
+    "published": "docs/results/rounds/R3-6/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R3-7/OPERATION_CARD.md",
+    "source_sha256": "8d3026a9f772de26ee25798e580f8836609cbce978f004833a6e274a960664ac",
+    "published": "docs/results/rounds/R3-7/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R3-8/OPERATION_CARD.md",
+    "source_sha256": "9b9cd797629d59e7408a7fd93bdcd868f5bf637ea27d16e38731e1522eefbe3c",
+    "published": "docs/results/rounds/R3-8/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R4-1/OPERATION_CARD.md",
+    "source_sha256": "9bbac2d5aea2bd2edbb5780bbde70ecf3fb1a8b5b300c9f8ffe2be62a1add7d5",
+    "published": "docs/results/rounds/R4-1/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R4-2/OPERATION_CARD.md",
+    "source_sha256": "5edda7eb9dbb2d2c791f1c2dec069a25762c86dba4c9935d8a4b2548f9d487e1",
+    "published": "docs/results/rounds/R4-2/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R4-3/OPERATION_CARD.md",
+    "source_sha256": "912f3402807ef758c13196d220d5d7b3cef1df9a28e65a27ea544ee1fd0d7d47",
+    "published": "docs/results/rounds/R4-3/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R4-4/OPERATION_CARD.md",
+    "source_sha256": "1068cc4e9fda9d03f7d9c18df29d63b373209fee13072274cb781f210f5db70e",
+    "published": "docs/results/rounds/R4-4/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R4-5/OPERATION_CARD.md",
+    "source_sha256": "7ddee34f8067e0cdcecf9608c7d0a1fe666540b3bf5cea628a558bf2b1ede0dd",
+    "published": "docs/results/rounds/R4-5/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R4-6/OPERATION_CARD.md",
+    "source_sha256": "ee4f1c6cdfde2b8e1a337314f3919aa0ed8678d1dd0217b1c7d10420a2a5423e",
+    "published": "docs/results/rounds/R4-6/OPERATION_CARD.md"
+  },
+  {
+    "source": "runs/R4-7/OPERATION_CARD.md",
+    "source_sha256": "97232981e3d7cca0e8d2229ae0127a5b827eb68cad176fde5faa58dbd7913a3a",
+    "published": "docs/results/rounds/R4-7/OPERATION_CARD.md"
+  }
+]

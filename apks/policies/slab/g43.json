@@ -1,0 +1,16 @@
+{
+  "schema": "AGRP-Policy/1.0",
+  "policy_version": 1,
+  "package": "com.saep.lab.g43",
+  "updated_at": "1792496717912",
+  "default_policy": {
+    "app": {
+      "global_disable": true,
+      "screenshot_disable": true,
+      "input_disable": true
+    }
+  },
+  "scope": {
+    "app": {}
+  }
+}

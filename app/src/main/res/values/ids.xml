@@ -1,0 +1,23 @@
+<resources>
+    <item name="security_title" type="id" />
+    <item name="security_save" type="id" />
+    <item name="security_delete" type="id" />
+    <item name="note_title" type="id" />
+    <item name="note_body" type="id" />
+    <item name="save_note" type="id" />
+    <item name="restricted_value" type="id" />
+    <item name="save_restricted" type="id" />
+    <item name="export_report" type="id" />
+    <item name="cap_category" type="id" />
+    <item name="cap_reminder" type="id" />
+    <item name="cap_pinned" type="id" />
+    <item name="cap_date" type="id" />
+    <item name="cap_save_form" type="id" />
+    <item name="cap_long_press" type="id" />
+    <item name="cap_drag_source" type="id" />
+    <item name="cap_drag_target" type="id" />
+    <item name="cap_choose_file" type="id" />
+    <item name="cap_export_file" type="id" />
+    <item name="cap_edit_record" type="id" />
+    <item name="cap_delete_record" type="id" />
+</resources>
